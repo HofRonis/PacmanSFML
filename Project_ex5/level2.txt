@@ -1,0 +1,19 @@
+18 28
+EEEEEEEEEEEEEEEEEEEEEEEEEEEE
+E@     #                  TE
+E DDDDDD DDDDDDDDDDDD DDDD E
+EKD        K K K         D E
+E D DDDDDDDDDDDIDDDDDDDD D E
+EKDKD          K   D   D D E
+E D D D# # # # # # # G D D E
+EKDKD D#############   D   E
+EID D D              D DDD#E
+EKDKD D DDDDDDDDDDDDDD   D E
+EID D D              DDD D E
+EK  DDDDD DDDDDDDDDDDD D D E
+EID       D            D   E
+EKD DDDDDDD DDDD DDDDDDD D E
+E                        D E
+E#DDDD DDDD DDDD DDDD DDDD E
+E         #               %E
+EEEEEEEEEEEEEEEEEEEEEEEEEEEE

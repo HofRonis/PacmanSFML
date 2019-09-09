@@ -1,0 +1,17 @@
+16 19
+DDDDDDDDDDDDDDDDDDD
+DEE          EE EED
+DEE          EE EED
+D      DID   KK   D
+DEE    I@I   EE EED
+DEED  D I D  EE EED
+D            KK   D
+DEE EEKEE EE EE EED
+DEE EEKEE EE EE EED
+D                 D
+DEE EE EE EE EE EED
+DEE EE EE EE EE EED
+D      KK    KK   D
+DEE EE EE EE EE EED
+DEE EE EEGEETEE%EED
+###################

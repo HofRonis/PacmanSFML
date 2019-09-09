@@ -1,0 +1,13 @@
+12 16
+DDDDDDDDDDDDDDDD
+DW#KKK#        D
+DK#I#K#        D
+DK#I#K#    *   D
+DK#I#K#   EEE  D
+DK#I#K#  *EEE* D
+DK#I#K#   EEE  D
+DK#I#K#    *   D
+DK#K#K#        D
+DK#K#K#EEEEEEE D
+DKKK#*K*KKKKKKKD
+DDDDDDDDDDDDDDDD
